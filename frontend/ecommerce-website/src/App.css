@@ -1,0 +1,22 @@
+.login-form{
+  width:100%;
+  max-width:330px;
+  margin:auto;
+  height:100%;
+  padding: 0;
+  font-size: 15px;
+}
+
+.all{
+  background-image: url(./login/robert-lamb-o85agQuK55E-unsplash.jpg);
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  background-position: center;
+  padding: 0;
+  margin: 0;
+}
+
